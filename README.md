@@ -1,53 +1,143 @@
-# 👋 Hello, I'm Pandorien
+<!-- HEADER BANNER -->
 
-**Code Weaver — building thoughtful software and creative web tools**
+<p align="center">
+<img src="https://your-image-host/panda-navigation-banner.png" width="100%">
+</p>
 
-I enjoy turning ideas into simple, useful software and exploring how design and technology work together. My projects focus on web development, interaction design, and small tools that solve real problems.
-
----
-
-## 🧰 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<h1 align="center">Pandorien</h1>
+<h3 align="center">Code Weaver • Weaving ideas into software</h3>
 
 ---
 
-## 🚀 Featured Projects
+<!-- ANIMATED TYPING INTRO -->
 
-### 🎄 HomeForTheHolidays
-Seasonal website featuring holiday events, traditions, recipes, and interactive features.
-
-### 🧪 CodeWeaver Labs
-Small creative coding experiments exploring UI ideas and developer tools.
-
-### 🌐 Pandorien.com
-My personal developer site where I share projects and open source tools.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Developer+%7C+Code+Weaver;Building+creative+software+and+web+tools;Programming+%2C+Cloud+%2C+Security+%2C+Databases;Always+learning+and+building+new+projects" />
+</p>
 
 ---
 
-## 📊 GitHub Activity
+<!-- VISITOR COUNTER -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pandorien&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandorien&layout=compact&theme=dark)
-
----
-
-## 🧠 Currently Learning
-
-• Backend architecture  
-• API design  
-• Building scalable web apps  
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=pandorien&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
 
-## 📫 Connect
+# About Me
+
+Developer focused on programming, web technologies, databases, and cloud systems.  
+I enjoy building interactive software, creative tools, and thoughtful digital experiences.
+
+My work blends **system design, programming logic, and interface creativity**.
+
+---
+
+# Tech Stack
+
+## Programming Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![Assembly](https://img.shields.io/badge/Assembly-black?style=for-the-badge)
+
+## Web Technologies
+
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+
+## Databases
+
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=database)
+![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+
+## Cloud & Security
+
+![Cloud Computing](https://img.shields.io/badge/Cloud-Computing-blue?style=for-the-badge)
+![Computer Security](https://img.shields.io/badge/Computer-Security-darkred?style=for-the-badge)
+
+## Tools & Software
+
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Photoshop](https://img.shields.io/badge/Photoshop-blue?style=for-the-badge&logo=adobephotoshop)
+![Illustrator](https://img.shields.io/badge/Illustrator-orange?style=for-the-badge&logo=adobeillustrator)
+![Dreamweaver](https://img.shields.io/badge/Dreamweaver-purple?style=for-the-badge)
+
+---
+
+# Featured Projects
+
+## HomeForTheHolidays
+
+![Holiday Demo](assets/holiday-demo.gif)
+
+Seasonal platform for discovering holiday traditions, events, and recipes.
+
+---
+
+## Origin – The Game That Led Me to Code
+
+![Origin Demo](assets/origin-demo.gif)
+
+Interactive narrative project showing how curiosity about a computer game led to programming.
+
+---
+
+## CodeWeaver Labs
+
+![Labs Demo](assets/labs-demo.gif)
+
+Creative coding experiments exploring UI design and software interaction.
+
+---
+
+# GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pandorien&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandorien&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=pandorien&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# Contribution Graph Snake
+
+<p align="center">
+<img src="https://github.com/pandorien/pandorien/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# Current Focus
+
+• Building interactive software experiences  
+• Expanding knowledge in cloud computing and security  
+• Creating useful tools and creative web projects  
+
+---
+
+# Connect
 
 Website  
 https://pandorien.com
 
 Email  
 CodeWeaver@pandorien.com
+
+GitHub  
+https://github.com/pandorien
