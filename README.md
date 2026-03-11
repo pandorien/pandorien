@@ -1,85 +1,53 @@
-# Pandorien
+# 👋 Hello, I'm Pandorien
 
-**Code Weaver — Building thoughtful software and creative web tools**
+**Code Weaver — building thoughtful software and creative web tools**
 
-I am a developer interested in building useful software, exploring system design, and creating web applications that combine clean code with thoughtful user experience.
-
-My work focuses on programming, web technologies, databases, and cloud systems.
+I enjoy turning ideas into simple, useful software and exploring how design and technology work together. My projects focus on web development, interaction design, and small tools that solve real problems.
 
 ---
 
-## Technical Skills
+## 🧰 Tech Stack
 
-### Programming Languages
-Assembly Language 
-C  
-C++  
-Java  
-Python
-Visual Basic  
-
-### Web Technologies
-CSS
-E-Commerce Development
-HTML  
-JavaScript
-Web Page Design  
-Web Page Development  
-  
-### Databases
-SQL  
-Database Design  
-Azure Database  
-AWS Databases  
-
-### Cloud & Security
-AWS (Database Essentials, Capture Engine, Security)  
-Cloud Computing  
-Computer Security
-Azure
-
-### Tools & Software
-Git & GitHub  
-Microsoft Office  
-
-Adobe Photoshop  
-Adobe Illustrator  
-Adobe Dreamweaver  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### HomeForTheHolidays
-Seasonal web platform featuring holiday events, traditions, recipes, and interactive community features.
+### 🎄 HomeForTheHolidays
+Seasonal website featuring holiday events, traditions, recipes, and interactive features.
 
-### CodeWeaver Labs
-Creative coding experiments exploring web interaction and interface design.
+### 🧪 CodeWeaver Labs
+Small creative coding experiments exploring UI ideas and developer tools.
 
-### Origin – The Game That Led Me to Code
-An interactive story project recreating the moment curiosity about a computer game led to learning programming.
-
----
-
-## Current Focus
-
-• Building modern web applications  
-• Expanding cloud and database systems knowledge  
-• Creating interactive software experiences  
+### 🌐 Pandorien.com
+My personal developer site where I share projects and open source tools.
 
 ---
 
-## Philosophy
+## 📊 GitHub Activity
 
-Good software solves problems.  
-Great software feels simple.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pandorien&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandorien&layout=compact&theme=dark)
 
 ---
 
-## Connect
+## 🧠 Currently Learning
+
+• Backend architecture  
+• API design  
+• Building scalable web apps  
+
+---
+
+## 📫 Connect
 
 Website  
-https://pandorien.com  
+https://pandorien.com
 
 Email  
 CodeWeaver@pandorien.com
