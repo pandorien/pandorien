@@ -7,21 +7,27 @@
 <h1 align="center">Pandorien</h1>
 <h3 align="center">
 Software Developer • Web Systems • Cloud & Security<br>
+<p align="center">
+  <i>Focused on building interactive systems that feel like real software, not just pages.</i>
+</p>
 Weaving ideas into interactive software
 </h3>
 
 ---
+
 # Terminal
 
 ```bash
 > help
 
-about        → Learn about me  
-projects     → View featured work  
-labs         → Explore experiments  
-contact      → Get in touch  
+whoami      → About me  
+projects    → Featured work  
+labs        → Experiments  
+contact     → Get in touch  
+clear       → Reset screen  
 ```
 ---
+
 <!-- TYPING INTRO -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+interactive+software+and+web+systems;Focused+on+clean+design+and+real+functionality;Exploring+cloud%2C+security%2C+and+system+architecture;Always+learning%2C+always+building" />
@@ -46,20 +52,25 @@ My work combines:
 - System design
 - Programming logic
 - Interface creativity
+
 ---
+
 # Quick Access
 
 - 🌐 Portfolio → https://pandorien.com  
 - 🎄 Home For The Holidays → https://github.com/pandorien/home-for-the-holidays  
 - 🧪 CodeWeaver Labs → https://github.com/pandorien/codeweaver-labs
+  
 ---
 
 # Featured Projects
 
 ## Home For The Holidays
-<img src="assets/holiday-demo.gif" width="600">
+<img src="https://raw.githubusercontent.com/pandorien/home-for-the-holidays/main/assets/holiday-demo.gif" width="600">
 
 Seasonal platform for discovering holiday traditions, events, and recipes.
+
+**Tech:** HTML, CSS, JavaScript
 
 **Highlights**
 - Dynamic content structure for holidays and events  
@@ -76,12 +87,15 @@ Seasonal platform for discovering holiday traditions, events, and recipes.
 
 Interactive narrative project inspired by the experience that led me into programming.
 
+**Tech:** HTML, CSS, JavaScript
+
 **Highlights**
 - Story-driven interface design  
 - Experimental UI/UX interaction  
 - Personal narrative translated into software  
 
 📂 Repo: https://github.com/pandorien/pandorien.com  
+(Project: Origin)
 
 ---
 
@@ -89,6 +103,8 @@ Interactive narrative project inspired by the experience that led me into progra
 <img src="assets/labs-demo.gif" width="600">
 
 A collection of creative coding experiments and interface explorations.
+
+**Tech:** HTML, CSS, JavaScript (experimental)
 
 **Highlights**
 - Terminal-style UI systems  
@@ -101,9 +117,9 @@ A collection of creative coding experiments and interface explorations.
 
 # Currently Building
 
-- Terminal-style developer portfolio interface  
-- Expanding Home For The Holidays platform  
-- New experimental UI systems in CodeWeaver Labs  
+- Terminal-style developer portfolio (command-based navigation)  
+- Expanding Home For The Holidays with new features  
+- UI experiments and interaction systems in CodeWeaver Labs 
 
 ---
 
@@ -155,7 +171,7 @@ A collection of creative coding experiments and interface explorations.
 I build software that sits at the intersection of structure and creativity—where clean systems meet thoughtful user experience.
 
 ---
-
+---
 # Connect
 
 🌐 Website  
