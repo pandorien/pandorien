@@ -5,7 +5,10 @@
 </p>
 
 <h1 align="center">Pandorien</h1>
-<h3 align="center">Code Weaver • Weaving ideas into software</h3>
+<h3 align="center">
+Software Developer • Web Systems • Cloud & Security  
+Weaving ideas into interactive software
+</h3>
 
 ---
 
@@ -27,10 +30,11 @@
 
 # About Me
 
-Developer focused on programming, web technologies, databases, and cloud systems.  
-I enjoy building interactive software, creative tools, and thoughtful digital experiences.
+Developer focused on building interactive web systems and creative software.
 
-My work blends **system design, programming logic, and interface creativity**.
+I started coding after discovering computers through a game that sparked my curiosity—what began as exploration turned into a passion for building.
+
+My work blends system design, programming logic, and interface creativity to create meaningful digital experiences.
 
 ---
 
@@ -77,6 +81,10 @@ My work blends **system design, programming logic, and interface creativity**.
 
 Seasonal platform for discovering holiday traditions, events, and recipes.
 
+• Built with: HTML, CSS, JavaScript  
+• Features: dynamic calendar, interactive UI, themed design system  
+• Focus: user experience + content organization
+
 ---
 
 ## Origin – The Game That Led Me to Code
@@ -91,7 +99,18 @@ Interactive narrative project showing how curiosity about a computer game led to
 
 ![Labs Demo](assets/labs-demo.gif)
 
-Creative coding experiments exploring UI design and software interaction.
+Collection of creative coding experiments exploring UI design and interaction.
+
+• Focus: terminal interfaces, animations, experimental UX  
+• Purpose: rapid prototyping and idea exploration
+
+---
+
+# Currently Building
+
+• Terminal-style developer portfolio interface  
+• HomeForTheHolidays platform (expanding features)  
+• Experimental UI systems in CodeWeaver Labs
 
 ---
 
