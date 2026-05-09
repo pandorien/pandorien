@@ -1,7 +1,7 @@
 
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://your-image-host/panda-navigation-banner.png" width="100%">
+  <img src="images/Panda1_20260508_221317_0000.png" width="100%">
 </p>
 
 <h1 align="center">Pandorien</h1>
