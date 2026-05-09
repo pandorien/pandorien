@@ -1,9 +1,8 @@
 
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="images/Pandorien thumbnail _20260508_133226_0000.png" width="100%">
+  <img src="images/Pandorien thumbnail _20260508_135344_0000.png" width="100%">
 </p>
-
 <h1 align="center">Pandorien</h1>
 <h3 align="center">
 Software Developer • Web Systems • Cloud & Security<br>
